@@ -9,10 +9,10 @@ const expensesTableBody = document.getElementById('expense-table-body');
 const totalAmountCell = document.getElementById('total-amount');
 
 const categoryImages = {
-    'Food & Beverage': 'images/food-beverage.png',
-    'Rent': 'images/rent.png',
-    'Transport': 'images/transport.png',
-    'Relaxing': 'images/relaxing.png'
+    'Food & Beverage': 'https://homelander.blob.core.windows.net/exp/food-beverage.png',
+    'Rent': 'https://homelander.blob.core.windows.net/exp/relaxing.jpg',
+    'Transport': 'https://homelander.blob.core.windows.net/exp/rent.png',
+    'Relaxing': 'https://homelander.blob.core.windows.net/exp/transport.png'
 };
 
 // Function to update the total amount and expenses table
