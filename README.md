@@ -1,7 +1,8 @@
 <H1>Project Title: Expense tracker</H1>
 <H1>Project Details</H1>
-Demo URL: https://drive.google.com/file/d/1UE3h-vcLFZ14PfVKZMTqyX_4QJzZDcnC/view?usp=drive_link
-<br>Github Repository: 
+Project Demo URL: https://polite-sea-084a4e010.5.azurestaticapps.net/
+<br>Demo Video URL: https://drive.google.com/file/d/1UE3h-vcLFZ14PfVKZMTqyX_4QJzZDcnC/view?usp=drive_link
+<br>Github Repository URL: https://github.com/JagtapNikhil/ExpTracker.git
 <h2>Azure Services Used</h2>
 1) Static Web Apps: <br><p>Azure Static Web Apps is to deploy website to Azure from a code repository.</p>
 2) Storage Account: <br><p>Storage account is used to store the images in container which displayed on the expenses table</p>
@@ -17,5 +18,9 @@ Azure Static Web Apps is used to host and deploy the website, making it accessib
 <h4>Azure Storage Account:</h4>Azure Blob Storage from the Azure Storage Account is used to store images for expense categories like food and beverages, rent, and transport. These images are retrieved and displayed when users log their expenses, enhancing the user experience by providing visual feedback for each category.
 
 <h2>Screenshots</h2>
+
+![Alt text](https://github.com/JagtapNikhil/ExpTracker/blob/9333f4de257a9ed98299e03a9e16f020e8176534/Screenshot%2011.png)
+![Alt text](https://github.com/JagtapNikhil/ExpTracker/blob/9333f4de257a9ed98299e03a9e16f020e8176534/Screenshot%2022.png)
+![Alt text](https://github.com/JagtapNikhil/ExpTracker/blob/9333f4de257a9ed98299e03a9e16f020e8176534/Screenshot%2033.png)
 
 
