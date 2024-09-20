@@ -18,6 +18,13 @@ Azure Static Web Apps is used to host and deploy the website, making it accessib
 <h4>Azure Storage Account:</h4>Azure Blob Storage from the Azure Storage Account is used to store images for expense categories like food and beverages, rent, and transport. These images are retrieved and displayed when users log their expenses, enhancing the user experience by providing visual feedback for each category.
 
 <h2>Screenshots</h2>
+<h3>Azure Static Web App Service</h3>
+
+![Alt text](https://github.com/JagtapNikhil/ExpTracker/blob/0aede3b13e2842b8a754b8a6ecc031ba622c2897/screenshot/Screenshot%2044.png)
+<h3>Azure Storage Account- Blob Storage</h3>
+
+![Alt text](https://github.com/JagtapNikhil/ExpTracker/blob/0aede3b13e2842b8a754b8a6ecc031ba622c2897/screenshot/Screenshot%2055.png)
+<h3>Expense Tracker Website</h3>
 
 ![Alt text](https://github.com/JagtapNikhil/ExpTracker/blob/9333f4de257a9ed98299e03a9e16f020e8176534/Screenshot%2011.png)
 ![Alt text](https://github.com/JagtapNikhil/ExpTracker/blob/9333f4de257a9ed98299e03a9e16f020e8176534/Screenshot%2022.png)
